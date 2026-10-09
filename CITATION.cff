@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+title: "Statistical code for: Pancreas morphology across the lifespan in type 1 diabetes"
+message: "If you use this software or data, please cite the associated manuscript and this repository."
+type: software
+authors:
+  - family-names: "Kaddis"
+    given-names: "John S."
+    orcid: "https://orcid.org/0000-0002-6752-7670"
+version: "1.0.0"
+date-released: "2026-10-09"
+license: MIT
+repository-code: "https://github.com/KaddisLab/2026_Kusmartseva_et_al_Diabetologia"
+preferred-citation:
+  type: article
+  title: "Pancreas morphology across the lifespan in type 1 diabetes"
+  authors:
+    - family-names: "Kusmartseva"
+      given-names: "Irina"
+    - family-names: "Verney"
+      given-names: "Ellen"
+    - family-names: "Meier"
+      given-names: "Alexis"
+    - family-names: "Ramirez-Gutierrez"
+      given-names: "Joselyn"
+    - family-names: "Hiller"
+      given-names: "Helmut"
+    - family-names: "Beery"
+      given-names: "Maria"
+    - family-names: "O'Flynn"
+      given-names: "Robert"
+    - family-names: "Foss"
+      given-names: "Robin"
+    - family-names: "Wasserfall"
+      given-names: "Clive"
+    - family-names: "Schatz"
+      given-names: "Desmond A."
+    - family-names: "Campbell-Thompson"
+      given-names: "Martha"
+    - family-names: "Atkinson"
+      given-names: "Mark A."
+    - family-names: "Kaddis"
+      given-names: "John S."
+  journal: "Diabetologia"
+  year: 2026
+  # Add upon publication:
+  # volume: ""
+  # issue: ""
+  # start: ""   # first page
+  # doi: ""
